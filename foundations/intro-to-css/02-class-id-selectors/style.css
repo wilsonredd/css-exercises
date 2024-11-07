@@ -1,0 +1,19 @@
+.default-font-size {
+    font-size: 24px;
+}
+
+.odd-element {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif; 
+}
+
+#second-element {
+    color: blue;
+    font-size: 32px;
+}
+
+#fourth-element {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
