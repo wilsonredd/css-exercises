@@ -6,23 +6,24 @@ body {
 .one {
   background: pink;
   border: 3px solid blue;
-  /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  /* 32px between text and border */
+  padding: 32px;
+  /* 12px between it and any other element on the page */
+  margin: 12px;
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
-  /* CHANGE ME */
-  margin-bottom: 0px;
+  /* 48px gap between Div Two and Div Three */
+  margin-bottom: 48px;
 }
 
 .three {
   background: peachpuff;
   border: 3px solid brown;
   width: 200px;
-  /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  /* 32px between text and border */
+  padding: 32px;
+  margin-left: auto;
 }
